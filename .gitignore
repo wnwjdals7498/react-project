@@ -1,9 +1,13 @@
 # 설치된 목록
 /node_modules
+
 # 빌드 파일
 /dist
+
 # 페키지 잠금 파일
 /package-lock.json
+
 # github key 파일
 /github_key
 /github_key.pub
+/.git-credentials
